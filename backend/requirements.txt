@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pandas
+numpy
+scikit-learn
+joblib
+sqlalchemy
+pydantic-settings
+python-jose[cryptography]
+passlib[bcrypt]
+shap
+xgboost
+pytest
+httpx
+mlflow
